@@ -1,2 +1,2 @@
-# CS
-This is a test account
+# Experiments with the Euler project
+
